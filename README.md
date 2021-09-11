@@ -1,5 +1,7 @@
-# The incomplete list of programming languages
+# The Incomplete List of Programming Languages  
 
+This list is incomplete because I wanted it to be. I wanted it to be concise and helpful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime. 
+  
 Compiled
 - C
 - C++
