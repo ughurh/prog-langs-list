@@ -2,14 +2,15 @@
 
 &nbsp;
 
-This list is incomplete because I wanted it to be. I wanted it to be concise and helpful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime. 
+#### This list is incomplete because I wanted it to be. I wanted it to be concise and helpful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime. 
+
 ---
 &nbsp;
 
 Machine Language
 - 0s and 1s
 
-One Step Above Machine Codes
+Lowest Level
 - Assembly Language
 
 Compiled
