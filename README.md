@@ -1,11 +1,8 @@
 # The Incomplete List of Programming Languages  
 
-&nbsp;
-
-#### This list is incomplete because I wanted it to be. I wanted it to be concise and helpful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime. 
+**This list is incomplete because I wanted it to be. I wanted it to be concise and helpful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime.** 
 
 ---
-&nbsp;
 
 Machine Language
 - 0s and 1s
@@ -22,6 +19,7 @@ Compiled
 Compiled - Garbage Collected (GC)
 - Go
 - Dart
+- Crystal
 - D
 
 Virtual Machines (VM) / Runtimes
@@ -42,17 +40,18 @@ Interpreted
 Functional
 - Haskell
 - Lisp (Scheme / Common Lisp / Racket / Clojure)
-- Standard ML
+- ML (Standard ML / OCaml / F#)
 
-Other / Uncategorized
+Other / Uncategorized / DSL / Markup 
+- HTML/CSS
 - SQL
+- Bash / PowerShell
 - VBA
 - R / Matlab / Julia
-- Bash / PowerShell
+- COBOL
+- APL
 - Fortran
 - Ada
 - Scratch
 - Prolog
-- COBOL
-- ABAP
 - Brainf*ck
