@@ -1,11 +1,9 @@
 # The Incomplete List of Programming Languages  
 
-**This list is incomplete because I wanted it to be. I wanted it to be concise and helpful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime.** 
-
----
+This list is incomplete because I wanted it to be. I wanted it to be concise and meaningful. Programming languages that I have been added here are either popular, or have influences on other languages, or just you might heard/hear of it sometime.  
 
 Machine Language
-- 0s and 1s
+- 0s and 1s (Actually two states of transistors)
 
 Lowest Level
 - Assembly Language
@@ -17,15 +15,15 @@ Compiled
 - Pascal (Object Pascal / Delphi)
 
 Compiled - Garbage Collected (GC)
+- Swift / Objective-C
 - Go
 - Dart
 - Crystal
 - D
 
-Virtual Machines (VM) / Runtimes
+Virtual Machines (VM)
 - Java / Kotlin / Scala / Groovy
 - C# / VB .NET
-- Swift / Objective-C
 - Erlang / Elixir
 - Smalltalk / Squeak
 
