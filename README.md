@@ -20,6 +20,7 @@ This list is incomplete because I wanted it to be. I wanted it to be concise and
 - Dart
 - Crystal
 - D
+- Nim
 
 **Virtual Machines (VM)**
 - Java / Kotlin / Scala / Groovy
